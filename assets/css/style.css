@@ -9435,7 +9435,7 @@ textarea:-ms-input-placeholder {
   }
 }
 @media (max-width: 600px) {
- .row{
+ .row:not(.about-list-02 .row, .modal-grid.row){
   gap: 2rem;
  } 
 }
