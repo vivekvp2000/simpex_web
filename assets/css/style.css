@@ -3888,10 +3888,11 @@ textarea:-ms-input-placeholder {
   padding-left: 0px;
 }
 .techwix-cta-section-02 .cta-wrap .cta-btn .btn {
-  font-size: 16px;
+  font-size: 12px;
+  text-wrap: nowrap;
   background: #ffffff;
   color: #0e0e0e;
-  padding: 0 30px;
+  padding: 0 16px;
 }
 
 .techwix-cta-section-02 .cta-wrap .cta-btn .btn:hover {
